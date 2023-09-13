@@ -1,1 +1,2 @@
-# JavaScript_full_decomentasi
+Lets's to learn java script
+ still learning by doing
