@@ -1,2 +1,2 @@
-Lets's to learn java script
- still learning by doing
+ Lets's to learn java script
+  still learning by doing
